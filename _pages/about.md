@@ -3,4 +3,4 @@ permalink: /about/
 
 ---
 
-TODO
+{{ site.data.about.description.long }}
