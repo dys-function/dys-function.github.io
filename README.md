@@ -88,7 +88,7 @@ cp /path/to/image/file ./favicon.ico
 Each markdown file under the `_pages/` directory represents a different page of the website in the top bar navigation.
 
 ### Posts
-Individual posts can be found in the `_posts/` directory. Each post is represented a a single file with the following naming scheme:
+Individual posts can be found in the `_posts/` directory. Each post is represented by a single file with the following naming scheme:
 
 YYYY-MM-DD-name-of-post-file.md
 
