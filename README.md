@@ -5,12 +5,12 @@
 ### Install system reqirements
 Arch Linux
 ```bash
-sudo pacman -S git make ruby && make install
+sudo pacman -S git make ruby
 ```
 
 Ubuntu
 ```bash
-sudo apt update && sudo apt install -y git make ruby && make install
+sudo apt update && sudo apt install -y git make ruby
 ```
 
 ### Clone this repository
