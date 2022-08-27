@@ -36,7 +36,8 @@ repository: dys-function/dys-function.github.io
 # theme: minimal-mistakes-jekyll
 # remote_theme: daattali/beautiful-jekyll@5.0.0
 remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: "dysfunction"
+minimal_mistakes_skin: "default"
+  #minimal_mistakes_skin: "dysfunction"
 
 
 plugins:
