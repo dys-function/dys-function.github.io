@@ -57,7 +57,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       read_time: true
       comments: false
       share: false
@@ -68,14 +68,14 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: false
+      author_profile: true
   # _books
   - scope:
       path: ""
       type: books
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       share: false
   # _slices
   - scope:
@@ -83,7 +83,7 @@ defaults:
       type: slices
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       share: false
   # _codex
   - scope:
@@ -91,11 +91,24 @@ defaults:
       type: codex
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       share: false
 
 paginate: 5
 paginate_path: /page:num/
+
+author:
+  name: Fedyshin
+  avatar: /assets/isolation_icon.png
+  bio: "Creator of the Dys:/function universe."
+  location: "United States of America"
+  links:
+    - label: "Purchase Dys:/function Books"
+      icon: "fa fa-shopping-cart" 
+      url: "https://www.amazon.com/gp/product/B08XPV1N7V?ref_=dbs_p_mng_rwt_ser_shvlr&storeType=ebooks"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/dys-function"
 
 include: ["_pages"]
 
