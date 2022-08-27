@@ -122,7 +122,8 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dys-function"
 
-include: ["_pages"]
+include:
+  - _pages
 
 stickyposts:
   #enabled: false   # Enable StickyPosts; default: true
