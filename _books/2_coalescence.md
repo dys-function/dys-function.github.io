@@ -2,6 +2,7 @@
 title: "Dys:/function: COALESCENCE"
 header:
   teaser: /assets/coalescence_cover.jpg
+classes: wide
 
 ---
 

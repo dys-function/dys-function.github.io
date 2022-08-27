@@ -2,6 +2,7 @@
 title: "Dys:/function: PRELUDE"
 header:
   teaser: /assets/prelude_cover.jpg
+classes: wide
 
 ---
 
@@ -9,4 +10,4 @@ header:
 {{ site.data.books.prelude.description.short }}
 {{ site.data.books.prelude.description.long }}
 
- [<i class='fa fa-shopping-cart'></i> Purchase on Amazon]({{ site.data.books.prelude.amazon_url }})
+[<i class='fa fa-shopping-cart'></i> Purchase on Amazon]({{ site.data.books.prelude.amazon_url }})

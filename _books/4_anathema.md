@@ -2,6 +2,7 @@
 title: "Dys:/function: ANATHEMA"
 header:
   teaser: /assets/anathema_cover.jpg
+classes: wide
 
 ---
 

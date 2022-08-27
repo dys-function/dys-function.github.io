@@ -2,6 +2,7 @@
 title: "Dys:/function: ISOLATION"
 header:
   teaser: /assets/isolation_cover.jpg
+classes: wide
 
 ---
 
