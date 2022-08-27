@@ -94,7 +94,8 @@ defaults:
       author_profile: false
       share: false
 
-
+paginate: 5
+paginate_path: /page:num/
 
 include: ["_pages"]
 
