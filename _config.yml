@@ -47,7 +47,10 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-  - jekyll-remote-theme
+  - jekyll-algolia
+  - jekyll-stickyposts
+  - webrick
+  - jekyll-font-awesome-sass
 
     #collections_dir: _collections
 collections:
