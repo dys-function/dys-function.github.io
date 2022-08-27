@@ -103,7 +103,7 @@ author:
   bio: "Creator of the Dys:/function universe."
   location: "United States of America"
   links:
-    - label: "Purchase Dys:/function Books"
+    - label: "Amazon"
       icon: "fa fa-shopping-cart" 
       url: "https://www.amazon.com/gp/product/B08XPV1N7V?ref_=dbs_p_mng_rwt_ser_shvlr&storeType=ebooks"
     - label: "GitHub"
