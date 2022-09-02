@@ -1,13 +1,9 @@
 main:
+  - title: "Posts"
+    url: /posts/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
   - title: "About"
     url: /about/
-  - title: "Blog"
-    url: /
-  - title: "Books"
-    url: /books/
-  - title: "Slices"
-    url: /slices/
-  - title: "Codex"
-    url: /codex/
-  - title: "Contact"
-    url: /contact/
