@@ -40,6 +40,7 @@ minimal_mistakes_skin: "dysfunction"
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-include-cache 
 
     #collections_dir: _collections
 collections:
